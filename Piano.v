@@ -1,5 +1,6 @@
 //Code is partially ai generated
-//Ai is allowed for project, goal wasn't to independantly write verilog but instead to learn the circuitry
+//Ai is allowed for project, goal wasn't to independantly write verilog (syntax) but instead to learn the circuitry and understand the logic
+//We were interviewed on the function of the code to prove we knew how it worked and we did well (unlike the other group who dr vaidy got pissed at lol)
 module piano_final (
 
     input wire clk,
